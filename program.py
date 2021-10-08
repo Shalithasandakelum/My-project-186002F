@@ -1,3 +1,4 @@
-value = 10
+from Book import book
+Book = book('A')
 print('Hellow')
-print (value)
+print (Book.value)
