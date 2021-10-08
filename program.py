@@ -1,4 +1,6 @@
 from Book import book
-Book = book('A')
+Book1 = book('A')
+Book2 = book('B')
 print('Hellow')
-print (Book.value)
+print (Book1.value)
+print (Book2.value)
